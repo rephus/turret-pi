@@ -1,6 +1,6 @@
 ## Description
 
-![avatar](pictures/turret.png)
+![avatar](pictures/turret.png =100x100)
 
 Smart presence detection device similar to a turrent from Portal.
 
@@ -8,8 +8,8 @@ On detection, turret will speak, shoot and vibrate.
 
 RaspTurret PI, aPIrture science, turretberry PI
 
-![detection](pictures/detection1.png)
-![detection](pictures/detection2.png)
+![detection](pictures/detection1.jpg)
+![detection](pictures/detection2.jpg)
 
     The project was paused waiting for a proper 3D printed case , but never finished
 
