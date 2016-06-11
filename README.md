@@ -1,6 +1,6 @@
 ## Description
 
-![avatar](pictures/turret.png =100x100)
+<img src='pictures/turret.png' width="200"/>
 
 Smart presence detection device similar to a turrent from Portal.
 
